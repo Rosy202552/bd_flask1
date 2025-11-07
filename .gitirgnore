@@ -1,0 +1,5 @@
+_pyapache_/
+*.pic
+venv/
+.env
+*.db
